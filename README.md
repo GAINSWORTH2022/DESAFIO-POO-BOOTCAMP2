@@ -1,6 +1,6 @@
-# DESAFIO-POO-BOOTCAMP2
+# DESAFIO-POO-BOOTCAMP
+
 *Desafio-Poo-Dio-GFT Com Camila Cavalcanti
-Desafio realizado em um passo a passo na IDE IntelliJ, porém é possível realizar em outras IDEs, como por exemplo no VS Code.
 
 Neste Desafio de Projeto foi apresentado:
 
