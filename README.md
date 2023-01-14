@@ -1,5 +1,8 @@
 # DESAFIO-POO-BOOTCAMP
 
+Definição:
+"A Orientação a Objetos é um paradigma de análise, projeto e programação de sistemas de software baseados na composição e interação entre diversas unidades de software chamadas de objetos." ( https://pt.wikipedia.org/wiki/Orientação_a_objetos )
+
 *Desafio-Poo-Dio-GFT Com Camila Cavalcanti
 
 Neste Desafio de Projeto foi apresentado:
